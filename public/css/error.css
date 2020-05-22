@@ -1,0 +1,11 @@
+.error {
+    padding: 20px 40px;
+}
+
+.error > h1 {
+    color: red;
+}
+
+.error > h3 {
+    color: navy;
+}

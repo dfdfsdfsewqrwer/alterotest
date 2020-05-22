@@ -1,0 +1,17 @@
+.admin {
+    margin-left: 20px;
+}
+
+.admin table {
+    border-spacing: 0;
+    border: 1px solid silver;
+    margin-bottom: 20px;
+}
+
+.admin table td,
+.admin table th {
+    border: 1px solid silver;
+    padding: 6px 14px;
+    text-align: center;
+}
+

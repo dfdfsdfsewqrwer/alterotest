@@ -1,0 +1,57 @@
+a,
+a:hover,
+a:visited,
+a:focus {
+    color: blue;
+}
+
+.header {
+    background: navy;
+    color: white;
+    font-size: 36px;
+    padding: 8px 24px;
+}
+
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: navy;
+  color: white;
+  text-align: right;
+}
+
+.bottom-links > a {
+    color: white;
+    margin-right: 30px;
+}
+
+h1 {
+    text-align: center;
+}
+
+.info > p {
+    text-indent: 1em;
+    margin: 5px 20px;
+}
+
+.error,
+.success {
+    margin: 10px 20px;
+    padding: 10px 20px;
+    font-size: 18px;
+    display: inline-block;
+}
+
+.error {
+    background: #ffdddd;
+    color: red;
+    border: 1px solid red;
+}
+
+.success {
+    background: #ddffdd;
+    color: green;
+    border: 1px solid green;
+}

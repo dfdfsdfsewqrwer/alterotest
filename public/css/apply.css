@@ -1,0 +1,9 @@
+form table {
+    border: 1px solid silver;
+    margin: 20px 40px;
+}
+
+form table td {
+    padding: 3px 8px;
+}
+
